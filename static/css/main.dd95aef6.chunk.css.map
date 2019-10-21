@@ -1,0 +1,1 @@
+{"version":3,"sources":["root.css"],"names":[],"mappings":"AAAA,MACE,WACF,CAEA,iBACE,SAAU,CACV,iBAAkB,CAClB,mBAAoB,CACpB,SAAU,CACV,UACF","file":"main.dd95aef6.chunk.css","sourcesContent":["#root {\n  height: 100%;\n}\n\ninput[type=\"file\"] {\n  opacity: 0;\n  position: absolute;\n  pointer-events: none;\n  width: 1px;\n  height: 1px;\n}\n"]}
